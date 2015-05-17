@@ -1,4 +1,3 @@
-Safeway
-=======
+Personal Projects
+Repository for all my personal projects
 
-Safeway Clicker for Selenium
